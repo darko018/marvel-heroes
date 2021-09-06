@@ -5,7 +5,7 @@ const Header = () => {
                 <div className="container">
                     <a href="#" className="brand-logo">MARVEL</a>
                     <ul id="nav-mobile" className="right">
-                        <li>Homepage</li>
+                        {/* <li>Homepage</li> */}
                         {/* <li><a href="badges.html">Components</a></li>
                         <li><a href="collapsible.html">JavaScript</a></li> */}
                     </ul>
