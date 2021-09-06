@@ -1,0 +1,15 @@
+.single-team-card {
+    height: 60px;
+}
+
+.single-team-card img {
+    max-height: 100%;
+    width: 100px;
+}
+
+.single-hero-name {
+    position: relative;
+    display: inline-block;
+    bottom: 25px;
+    left: 10px;
+}
